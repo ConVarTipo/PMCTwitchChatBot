@@ -11,7 +11,7 @@ namespace PMCBot
     {
         public static string Name { get; set; }
         public static string Channel { get; set; }
-        public static string AccessToken { get; set; } // oauth:upc7n733zl68tawo1wteuw5jwa7gnr
+        public static string AccessToken { get; set; }
 
     }
 
